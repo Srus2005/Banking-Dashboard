@@ -17,9 +17,11 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 # **Loan_Analysis**
 <img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/1ceaa8b0-be54-4065-b362-dd675be30036" />
 <br>
+
 # **Deposit_Analysis**
 <img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/91b4762a-bed9-4628-a3fb-4a08c672f518" />
 <br>
+
 # **Summary**
 <img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/6deb392c-0358-471c-b4c2-524c461330ec" />
 <br>
