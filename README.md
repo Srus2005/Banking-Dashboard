@@ -16,3 +16,19 @@ The various tables are Banking Relationship, Client-Banking, Gender, Investment 
 
 # Loan_Analysis
 <img width="940" height="480" alt="image" src="https://github.com/user-attachments/assets/1ceaa8b0-be54-4065-b362-dd675be30036" />
+<br>
+# Deposit_Analysis
+<img width="940" height="479" alt="image" src="https://github.com/user-attachments/assets/91b4762a-bed9-4628-a3fb-4a08c672f518" />
+<br>
+# Summary
+<img width="940" height="474" alt="image" src="https://github.com/user-attachments/assets/6deb392c-0358-471c-b4c2-524c461330ec" />
+<br>
+# Conclusion
+Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for using in banking sector. As outlined in this write-up, a banking  operations dashboard in Power BI can be developed with key banking related metrics and KPIs.
+<br>
+# **Future Work** 
+With these dashboards banks can easily know what is the total loan amount and all other things of a particular investor.
+It also helps which type of banks have more number of clients as we can see private banks have more number of clients so it can helps other banks can build their strategies to increase clients.
+It also provides insights about which nationality has highest bank loans.
+It gives information about various types of amount involved in different types of accounts by investors.
+
